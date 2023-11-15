@@ -1,0 +1,10 @@
+#API End point
+"https://api.twitter.com"/endpoint
+
+
+#query parameters
+"https://api.twitter.com"/endpoint?query=value &query2=value
+
+
+#path parameters
+"https://api.twitter.com"/endpoint/{path parameter}
